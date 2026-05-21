@@ -6,7 +6,7 @@ The site serves as a digital representation of my professional profile, highligh
 
 ## Live Website
 
-🌐 **[https://sksunisa.github.io/SUNISA-CV/](https://sksunisa.github.io/SUNISA-CV/)**
+🌐 **[https://sksunisa.github.io/SUNISA-CV/](https://ploy-sunisa.github.io/SUNISA-CV/)**
 
 
 ---
